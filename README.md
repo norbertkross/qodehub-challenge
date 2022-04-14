@@ -28,6 +28,10 @@ Press Windows Key and type notepad. Press enter to open notepad if you see it
 ```
 <!DOCTYPE html>
 <html>
+
+<head>
+  <title> This Is a Title</title>
+</head>
 <body>
 
 <h1>My First Heading</h1>
