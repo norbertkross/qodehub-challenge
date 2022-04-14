@@ -1,6 +1,3 @@
-# qodehub-challenge
-Sample News App For qodehub
-
 # Open NotePad
 * Search For Note Pad on pc
 Press Windows Key and type notepad. Press enter to open notepad if you see it
@@ -26,6 +23,10 @@ Press Windows Key and type notepad. Press enter to open notepad if you see it
 * If you still don't see note pad click on `more apps`
 
 
+
+
+# qodehub-challenge
+Sample News App For qodehub
 
 ![News Details](https://github.com/norbertkross/qodehub-challenge/blob/master/Screenshot_1591179974.png?raw=true)
 
