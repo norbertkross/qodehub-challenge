@@ -22,8 +22,43 @@ Press Windows Key and type notepad. Press enter to open notepad if you see it
 * If you don't see notepad click on `another app` 
 * If you still don't see note pad click on `more apps`
 
+# Basics
+## HTML Documents
 
+```
+<!DOCTYPE html>
+<html>
+<body>
 
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
+```
+
+# Elements
+Examples of some HTML elements:
+
+```
+<tagname>Content goes here...</tagname>
+
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+```
+# HTML Attributes
+* All HTML elements can have attributes
+* Attributes provide additional information about elements
+* Attributes are always specified in the start tag
+* Attributes usually come in name/value pairs like: name="value"  
+
+```
+<a href="https://www.w3schools.com">Visit W3Schools</a>
+
+<img src="img_girl.jpg">
+
+<img src="img_girl.jpg" width="500" height="600">
+```
 
 # qodehub-challenge
 Sample News App For qodehub
