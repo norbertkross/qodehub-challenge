@@ -21,6 +21,7 @@ Press Windows Key and type notepad. Press enter to open notepad if you see it
 * Select `open with`, (If you see note pad click on it and it will open)
 * If you don't see notepad click on `another app` 
 * If you still don't see note pad click on `more apps`
+* click on notepad
 
 # Basics
 ## HTML Documents
